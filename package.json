@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-project-01",
+  "version": "1.0.0",
+  "description": "prj01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tajahmedbecode/nodejs-project-01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tajahmedbecode/nodejs-project-01/issues"
+  },
+  "homepage": "https://github.com/tajahmedbecode/nodejs-project-01#readme"
+}
