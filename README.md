@@ -1,1 +1,1 @@
-# nodejs-project-01
+# nodejs-example-project
